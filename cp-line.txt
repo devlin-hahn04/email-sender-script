@@ -1,0 +1,3 @@
+command to get a request from the deployment in cp
+
+curl -X POST -k https://dh2604.pythonanywhere.com/send-email

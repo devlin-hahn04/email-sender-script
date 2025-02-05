@@ -13,7 +13,7 @@ def send_handler():
 def send_email():
 
     email= "devlinhahn@gmail.com"
-    reciever_email= "dr274400@gmail.com"
+    reciever_email= "devlin.hahn@upr.edu"
 
     subject= "testing"
     message= "python sent you an email"
