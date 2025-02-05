@@ -4,7 +4,6 @@ from flask import Flask, request, jsonify
 app= Flask(__name__)
 
 @app.route("/send-email", methods= ["POST"])
-
 def send_handler():
 
     result= send_email()
